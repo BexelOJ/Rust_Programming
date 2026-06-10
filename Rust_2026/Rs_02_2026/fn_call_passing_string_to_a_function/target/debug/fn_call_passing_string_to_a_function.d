@@ -1,0 +1,1 @@
+/home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/fn_call_passing_string_to_a_function/target/debug/fn_call_passing_string_to_a_function: /home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/fn_call_passing_string_to_a_function/src/main.rs

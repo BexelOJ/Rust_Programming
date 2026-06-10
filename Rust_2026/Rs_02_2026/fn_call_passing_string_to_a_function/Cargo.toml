@@ -1,0 +1,6 @@
+[package]
+name = "fn_call_passing_string_to_a_function"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

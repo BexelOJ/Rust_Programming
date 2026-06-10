@@ -1,0 +1,10 @@
+﻿[package]
+name = "tuple"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[lib]
+name = "lib1"  # Defaults to package name if omitted
+path = "src/lib1.rs"

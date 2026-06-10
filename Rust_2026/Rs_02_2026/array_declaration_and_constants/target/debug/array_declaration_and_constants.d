@@ -1,0 +1,1 @@
+/home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/array_declaration_and_constants/target/debug/array_declaration_and_constants: /home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/array_declaration_and_constants/src/main.rs

@@ -1,0 +1,1 @@
+/home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/destructing_assignment_tuple/target/debug/destructing_assignment_tuple: /home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/destructing_assignment_tuple/src/main.rs

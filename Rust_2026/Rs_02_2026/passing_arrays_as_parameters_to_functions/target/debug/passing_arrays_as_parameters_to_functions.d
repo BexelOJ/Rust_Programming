@@ -1,0 +1,1 @@
+/home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/passing_arrays_as_parameters_to_functions/target/debug/passing_arrays_as_parameters_to_functions: /home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/passing_arrays_as_parameters_to_functions/src/main.rs

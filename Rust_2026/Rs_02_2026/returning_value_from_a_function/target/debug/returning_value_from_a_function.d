@@ -1,0 +1,1 @@
+/home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/returning_value_from_a_function/target/debug/returning_value_from_a_function: /home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/returning_value_from_a_function/src/main.rs

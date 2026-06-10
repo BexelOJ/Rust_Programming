@@ -1,0 +1,1 @@
+/home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/ownership_and_primitive_types/target/debug/ownership_and_primitive_types: /home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/ownership_and_primitive_types/src/main.rs

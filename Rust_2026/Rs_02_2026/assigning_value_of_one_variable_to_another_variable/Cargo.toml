@@ -1,0 +1,6 @@
+[package]
+name = "assigning_value_of_one_variable_to_another_variable"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

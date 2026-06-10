@@ -1,0 +1,5 @@
+/home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/assigning_value_of_one_variable_to_another_variable/target/debug/deps/assigning_value_of_one_variable_to_another_variable-6b1117e5d4b5116c.d: src/main.rs
+
+/home/exin/Workspace/Rust/Rust_2026/Rs_02_2026/assigning_value_of_one_variable_to_another_variable/target/debug/deps/assigning_value_of_one_variable_to_another_variable-6b1117e5d4b5116c: src/main.rs
+
+src/main.rs:
