@@ -12,7 +12,7 @@ fn main(){
    println!("Length : {}\n", v.len());
 
    for i in a{
-      println!("{}",a[i]);
+      println!("{}",i);
    }
 }
 
