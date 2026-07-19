@@ -3,34 +3,46 @@
 
 Rust naming conventions:
 
-Item		Naming Convention	Example
+Item		Naming Convention
+Example
 
-crate name	snake_case	    serde, tokio, rand
-
-
-module		snake_case (lowercase)	std, collections, sync
-
-
-function	snake_case		new(), push(), clone()
+crate name	snake_case	   
+serde, tokio, rand
 
 
-variable	snake_case		user_name, file_path
-
-Trait		PascalCase		Clone, Iterator, Display
-
-
-Struct		PascalCase		Person, HashMap
+module		snake_case (lowercase)
+std, collections, sync
 
 
-Enum		PascalCase		Option, Result
+function	snake_case
+new(), push(), clone()
 
 
-Enum Variant	PascalCase		Some, None, Ok, Err
+variable	snake_case
+user_name, file_path
 
-Constant			SCREAMING_SNAKE_CASE	MAX_SIZE, PI
+Trait		PascalCase
+Clone, Iterator, Display
 
 
-Static Variable		SCREAMING_SNAKE_CASE	GLOBAL_COUNT
+Struct		PascalCase
+Person, HashMap
+
+
+Enum		PascalCase
+Option, Result
+
+
+Enum Variant	PascalCase
+Some, None, Ok, Err
+
+
+Constant        SCREAMING_SNAKE_CASE
+MAX_SIZE, PI
+
+
+Static Variable	SCREAMING_SNAKE_CASE
+GLOBAL_COUNT
 
 
 */
