@@ -17,5 +17,15 @@ fn main() {
     let target: i32 = input.trim().parse().unwrap();
 
     // Count and print
+    let mut count: i32 = 0;
+  
+    for i in 0..numbers.len() {
+    	if numbers[i] == target {
+      	count += 1;	
+      }
+    }
+  
+    println!("Count: {}",count);
+
 }
 
