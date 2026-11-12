@@ -1,0 +1,6 @@
+[package]
+name = "rs_20261105_simple_trait"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
